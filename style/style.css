@@ -1,0 +1,27 @@
+body {
+    padding: 0px;
+    margin: 0px;
+}
+
+.header .box {
+    width: 100vw;
+    height: 400px;
+    background-image: url(../images/lobsterpizza.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-top: 0px;
+}
+.header {
+    margin: 0px;
+    width: 100vw;
+    height: 400px;
+    background-color: rgba(0, 0, 0, 0.7);
+}
+
+.header.title {
+    color: white;
+    font-size: 3em;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
